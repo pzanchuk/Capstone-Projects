@@ -5,7 +5,7 @@
 #### By _**Pavel Zanchuk**_
 
 ## Description
-_Capstone Project. Local(Seattle/Bellevue) buy/cell web application._
+_Capstone Project. Local(Seattle/Bellevue) buy/sell web application._
 
 ## Specs
 * _Users are able to post a text ad._
